@@ -1,6 +1,5 @@
 source 'https://rubygems.org'
 
-gem 'spree', '~> 4.0'
 gem 'spree_auth_devise', github: 'spree/spree_auth_devise', branch: 'master'
 
 gem 'byebug', '~> 9.0.6', group: [:development, :test]
